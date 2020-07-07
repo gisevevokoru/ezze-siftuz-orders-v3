@@ -32,7 +32,7 @@ namespace EzzeSiftuz\OrdersV3;
  * PartnerOrderTest Class Doc Comment
  *
  * @category    Class
- * @description The list of queried resources. In this case partner orders.
+ * @description PartnerOrder
  * @package     EzzeSiftuz\OrdersV3
  * @author      Swagger Codegen team
  * @link        https://github.com/swagger-api/swagger-codegen

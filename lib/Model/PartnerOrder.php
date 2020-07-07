@@ -35,7 +35,6 @@ use \EzzeSiftuz\OrdersV3\ObjectSerializer;
  * PartnerOrder Class Doc Comment
  *
  * @category Class
- * @description The list of queried resources. In this case partner orders.
  * @package  EzzeSiftuz\OrdersV3
  * @author   Swagger Codegen team
  * @link     https://github.com/swagger-api/swagger-codegen
